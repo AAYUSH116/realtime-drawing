@@ -1,0 +1,34 @@
+body{
+    font-family: 'Newsreader', serif;
+    background: rgb(0,208,184);
+background: linear-gradient(90deg, rgba(0,208,184,1) 14%, rgba(153,255,207,1) 33%, rgba(152,252,209,1) 55%, rgba(121,178,255,1) 100%);
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+
+}
+.note{
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:whitesmoke;
+    bottom:0;
+    width:100%;
+    background-color: gray;
+    line-height:3;
+    text-align:center;
+
+}
+
+canvas{
+    border:5px solid whitesmoke;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px grey;
+}

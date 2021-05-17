@@ -8,7 +8,7 @@ function setup(){
 }
 
 function draw(){
-    background('#969A97');
+    background('#ffcccc');
 
 }
 
